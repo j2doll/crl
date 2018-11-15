@@ -1,6 +1,13 @@
 # crl.Qt
 - Concurrency Runtime Library for Telegram Desktop
 - This project uses Qt 5. (2018)
+- C++ 17 commpiler is required. 
+	- Visual Studio 2017
+	- gcc
+		- C++17 Support in GCC : https://gcc.gnu.org/projects/cxx-status.html#cxx17
+		- GCC has experimental support for the latest revision of the C++ standard, which was published in <b>2017</b>.
+		- C++17 features are available as part of "mainline" GCC in the trunk of GCC's repository and in GCC 5 and later. To enable C++17 support, add the command-line parameter -std=c++17 to your g++ command line. Or, to enable GNU extensions in addition to C++17 features, add -std=gnu++17.
+		- Important: Because the final ISO C++17 standard is still new, GCC's support is experimental. No attempt will be made to maintain backward compatibility with implementations of C++17 features that do not reflect the final standard.
 
 ## Test Code
 ```cpp
