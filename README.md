@@ -15,6 +15,9 @@
 		- gcc (Ubuntu 7.3.0-27ubuntu1~18.04) 7.3.0
 		- Qt 5.9.5
 
+- Mac
+	- I do not have a Mac. Somebody give me a test result.
+
 ## License and links
 - crl has no license file now(2018). https://github.com/telegramdesktop/crl
 	- Telegram is under GPL v3 license. https://github.com/telegramdesktop/tdesktop
