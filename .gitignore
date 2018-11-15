@@ -268,3 +268,7 @@ __pycache__/
 xcuserdata
 *.xcworkspace
 .DS_Store
+
+
+*.vcxproj.filters
+
