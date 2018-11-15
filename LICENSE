@@ -1,0 +1,6 @@
+
+- crl has no license file now(2018). https://github.com/telegramdesktop/crl
+	- Telegram is under GPL v3 license. https://github.com/telegramdesktop/tdesktop
+
+- crt.Qt is licensed as crt. https://github.com/j2doll/crl.Qt
+	- If crl is GPL v3 license, crl.Qt is GPL 3 license.
